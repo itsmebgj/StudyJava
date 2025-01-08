@@ -19,9 +19,6 @@ public class StringEx {
     }
 }
 
-
-
-
 /*
 문자 리터럴: 'A' (문자 반드시 하나만, 0개 불가, blank도 문자임)
 char ch = 'J';

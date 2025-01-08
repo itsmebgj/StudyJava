@@ -16,6 +16,7 @@ public class ScannerEx {
         sc.close(); //스캐너는 사용후 종료
     }
 }
+
 /*
 입력받은 문자열을 숫자로 변환(String to int) > Integer.ParseInt()
 

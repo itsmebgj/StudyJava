@@ -22,7 +22,6 @@ public class VarEx2 {
     }
 }
 
-
 /*
 변수의 타입
 기본형: 논리형[boolean(1B)], 문자형[char(2B)], 정수형[byte(1B),short(2B),int(4b),long(8B)], 실수형[float(4B),double(8B)]

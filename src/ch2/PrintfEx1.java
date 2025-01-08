@@ -27,6 +27,7 @@ public class PrintfEx1 {
 		System.out.printf("binNum=%s, %d%n", Integer.toBinaryString(binNum), binNum);
     }
 }
+
 /*
 println은 변수의 값 그대로 출력
 printf는 지시자 사용해서 대입 출력, %n은 줄 바꿈
